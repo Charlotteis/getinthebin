@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Charlotteis/getinthebin#readme",
   "dependencies": {
-    "hapi": "^8.8.0"
+    "hapi": "^16.1.0"
   }
 }
